@@ -1,2 +1,2 @@
-# LearnPWA-Basic
-Learn PWA Basic
+# LearnSPA-Basic
+Learn SPA Basic
